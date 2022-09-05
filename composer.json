@@ -11,5 +11,7 @@
             "email": "buorn2011@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "lisachenko/z-engine": "^0.8.1"
+    }
 }
