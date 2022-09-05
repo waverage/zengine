@@ -1,0 +1,15 @@
+{
+    "name": "splynx/zengine",
+    "autoload": {
+        "psr-4": {
+            "Splynx\\Zengine\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "waverage",
+            "email": "buorn2011@gmail.com"
+        }
+    ],
+    "require": {}
+}
